@@ -4,3 +4,6 @@ https://ibm-learning.udemy.com/course/intro_git/learn/lecture/6449714#content
 
 基本的なワークフローを学ぶ
 https://ibm-learning.udemy.com/course/intro_git/learn/lecture/6449718#notes
+
+git add
+git commit
