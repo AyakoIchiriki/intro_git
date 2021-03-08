@@ -7,3 +7,5 @@ https://ibm-learning.udemy.com/course/intro_git/learn/lecture/6449718#notes
 
 git add
 git commit
+git rm
+git status
