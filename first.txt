@@ -10,4 +10,6 @@ git commit
 git rm
 git status
 git diff
+git diff --staged
 
+visual studio code
